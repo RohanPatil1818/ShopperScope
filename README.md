@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 <h2 align="center">🛍️ ShopperScope — Customer Behavior & Retail Revenue Intelligence</h2><p align="center"> <strong>3,900 shoppers. $233,081 in purchases. Clear insights for smarter retail decisions.</strong><br> <sub>An end-to-end Python + SQL Server + Power BI project exploring customer spending, products, subscriptions, and promotions.</sub> </p><p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </p><p align="center"> <a href="#-key-business-insights">Insights</a> · <a href="#-power-bi-dashboard">Dashboard</a> · <a href="#-data-resources">Dataset</a> · <a href="#-workflow--tools">Workflow</a> </p>
 📌 Project Snapshot
 Turned 3,900 US retail shopping records into an interactive BI report to understand where purchase value comes from and which marketing, product, and service decisions are worth testing.
@@ -70,6 +62,3 @@ To explore: Download the dataset from Drive, run the Python notebook with a loca
 <p align="center"><strong>Built to turn data into clear, practical retail decisions. 📈</strong></p>
 
 
-
-
-$0
